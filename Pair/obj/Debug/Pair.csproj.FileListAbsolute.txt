@@ -1,0 +1,5 @@
+C:\Users\исп-34\source\repos\Practice-5-Бенгардт\Pair\bin\Debug\Pair.dll
+C:\Users\исп-34\source\repos\Practice-5-Бенгардт\Pair\bin\Debug\Pair.pdb
+C:\Users\исп-34\source\repos\Practice-5-Бенгардт\Pair\obj\Debug\Pair.csproj.CoreCompileInputs.cache
+C:\Users\исп-34\source\repos\Practice-5-Бенгардт\Pair\obj\Debug\Pair.dll
+C:\Users\исп-34\source\repos\Practice-5-Бенгардт\Pair\obj\Debug\Pair.pdb
